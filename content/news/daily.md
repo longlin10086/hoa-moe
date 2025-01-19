@@ -3,8 +3,8 @@ authors:
 - image: https://avatars.githubusercontent.com/in/15368
   link: https://github.com/features/actions
   name: github-actions[bot]
-date: '2025-01-18'
-description: 北京时间 2025-01-17 11 时至今
+date: '2025-01-19'
+description: 北京时间 2025-01-18 00 时至今
 draft: false
 excludeSearch: false
 title: AUTO 更新速递
@@ -12,7 +12,25 @@ title: AUTO 更新速递
 
 ## 更新内容
 
+### 周日 (1.19)
+
+- W·D·Gaster 在 [中国近现代史纲要](https://github.com/HITSZ-OpenAuto/GEIP1016) 中提交了信息：修改文档名称 (#8)
+
+- W·D·Gaster 在 [马克思主义基本原理](https://github.com/HITSZ-OpenAuto/GEIP1011) 中提交了信息：修改未统一的文档命名 (#16)
+
+- OliverWu515 在 [移动机器人导论](https://github.com/HITSZ-OpenAuto/AUTO3012) 中提交了信息：将文件扩展名改回 md；修改原先的作业
+
+- OliverWu515 在 [自动化领域专家系列讲座](https://github.com/HITSZ-OpenAuto/AUTO3022) 中提交了信息：更改开课学期
+
+- OliverWu515 在 [自动化领域专家系列讲座](https://github.com/HITSZ-OpenAuto/AUTO3022) 中提交了信息：新增课程信息与报告模板
+
+- 吴俊达 在 [自动控制理论 A](https://github.com/HITSZ-OpenAuto/AUTO3001A) 中提交了信息：更新一个实验报告版本；重命名文件夹及整理文件 (#7)
+
 ### 周六 (1.18)
+
+- W·D·Gaster 在 [习近平新时代中国特色社会主义思想概论](https://github.com/HITSZ-OpenAuto/GEIP1017) 中提交了信息：修改不统一的文件命名和分类 (#2)
+
+- W·D·Gaster 在 [思想道德与法治](https://github.com/HITSZ-OpenAuto/GEIP1015) 中提交了信息：调整文件位置 (#3)
 
 - 吴俊达 在 [自动控制实践 A](https://github.com/HITSZ-OpenAuto/AUTO3002A) 中提交了信息：增加一个实验报告版本 (#25)
 
@@ -30,47 +48,43 @@ title: AUTO 更新速递
 
 - Origami404 在 [马克思主义基本原理](https://github.com/HITSZ-OpenAuto/GEIP1011) 中提交了信息：OpenCS 内容合并 (#15)
 
-- Origami404 在 [微积分 A](https://github.com/HITSZ-OpenAuto/MATH1015A) 中提交了信息：OpenCS 内容合并 (#10)
-
-### 周五 (1.17)
-
-- Origami404 在 [高级语言程序设计](https://github.com/HITSZ-OpenAuto/COMP2021) 中提交了信息：OpenCS 内容合并 (#7)
-
-- psp_dada 在 [自动控制理论 A](https://github.com/HITSZ-OpenAuto/AUTO3001A) 中提交了信息：上传实验相关内容 (#6)
-
 ## 待解决的 Issues
 
+### [原有的 clone_repos.py 是否有必要保留？](https://github.com/HITSZ-OpenAuto/repos-management/issues/2)
 
-### [AUTO3016](https://github.com/HITSZ-OpenAuto/AUTO3016/issues/14)
-
-- **仓库**: AUTO3016
-- **创建于**: 2025-01-18T09:48:41Z
+- **仓库**: repos-management
+- **创建于**: 2025-01-18T22:18:04Z
 - **作者**: OliverWu515
 
-### [AUTO3002A](https://github.com/HITSZ-OpenAuto/AUTO3002A/issues/24)
+### [AUTO5001](https://github.com/HITSZ-OpenAuto/AUTO5001/issues/4)
 
-- **仓库**: AUTO3002A
-- **创建于**: 2025-01-18T01:52:27Z
+- **仓库**: AUTO5001
+- **创建于**: 2025-01-18T21:51:16Z
 - **作者**: OliverWu515
 
+### [AUTO3007](https://github.com/HITSZ-OpenAuto/AUTO3007/issues/11)
 
+- **仓库**: AUTO3007
+- **创建于**: 2025-01-18T21:07:37Z
+- **作者**: OliverWu515
+
+### [AUTO3001A](https://github.com/HITSZ-OpenAuto/AUTO3001A/issues/9)
+
+- **仓库**: AUTO3001A
+- **创建于**: 2025-01-18T01:50:06Z
+- **作者**: OliverWu515
 
 ## 待合并的 Pull Requests
 
+### [整理资料（修改文件名；删除不具有参考价值的资料）](https://github.com/HITSZ-OpenAuto/AUTO3007/pull/10)
 
-### [增加一个实验报告版本，修订部分命名](https://github.com/HITSZ-OpenAuto/AUTO3002A/pull/25)
-
-- **仓库**: AUTO3002A
-- **创建于**: 2025-01-18T09:50:18Z
+- **仓库**: AUTO3007
+- **创建于**: 2025-01-18T21:06:34Z
 - **作者**: OliverWu515
 
+### [更新课程说明；更新 2024 秋考试试题](https://github.com/HITSZ-OpenAuto/AUTO5001/pull/3)
 
-
-### [更新 2022 实验报告版本；更新 README](https://github.com/HITSZ-OpenAuto/AUTO3016/pull/13)
-
-- **仓库**: AUTO3016
-- **创建于**: 2025-01-18T09:42:13Z
+- **仓库**: AUTO5001
+- **创建于**: 2025-01-18T20:26:57Z
 - **作者**: OliverWu515
-
-
 
